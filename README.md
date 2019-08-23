@@ -19,7 +19,7 @@ Still, this model provides a reasonable balance between stability of topic cohes
 
 These scripts were run from the command line in a folder containing the subdirectory of files to be processed. 
 
-'''{python}
+'''
 python -m preprocessing
 
 python -m hdp_model
