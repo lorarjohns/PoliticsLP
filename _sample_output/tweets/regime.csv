@@ -1,0 +1,6 @@
+,Tweets,Sentiment,Good_Bad
+0,RT @BirdsOfJannah: These innocent little children were playing on the roof of this building in Syria when it was targeted with missiles by…,"{'neg': 0.0, 'neu': 0.842, 'pos': 0.158, 'compound': 0.4472}",0.4472
+1,@Klimaatzuster @MinPres Amnisty Int beschouwdt Pres Lula als politieke gevangenen....Bolsorano is extreem rechts. N… https://t.co/OtukXP7zrq,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0
+2,RT @magpiespress: We marched w/the UPLB community to #DefendUP last Tuesday. We march again today not only against rapist &amp; murderer of UPL…,"{'neg': 0.156, 'neu': 0.712, 'pos': 0.132, 'compound': -0.1813}",-0.1813
+3,"RT @chacueco: Monumento que lembra as 2510 pessoas que durante o regime fascista em Portugal estiveram presas na Fortaleza de Peniche, hoje…","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0
+4,"RT @TheEconomist: After three decades of a crooked and genocidal regime, Omar al-Bashir finally faces trial in Sudan https://t.co/jcCLUtlws2","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0

@@ -1,0 +1,6 @@
+,Tweets,Sentiment,Good_Bad
+0,"RT @MarkDice: @hasanthehun Bro, you praised Al Qaeda.  That's not the same as being anti-war.","{'neg': 0.0, 'neu': 0.814, 'pos': 0.186, 'compound': 0.4939}",0.4939
+1,RT @MarkDice: YouTube's CEO Susan Wojcicki has met personally with Young Turks founder Cenk Uygur (who employs the Al Qaeda sympathizer co-…,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0
+2,"RT @MarkDice: Bro, you literally praised Al Qaeda and said America deserved 9/11.  That's not the same as being anti-war. https://t.co/TuRp…","{'neg': 0.0, 'neu': 0.862, 'pos': 0.138, 'compound': 0.4939}",0.4939
+3,"RT @MarkDice: @DanCrenshawTX @hasanthehun It's interesting that YouTube bans Alex Jones for ""hate speech"" but allows the Young Turks co-hos…","{'neg': 0.106, 'neu': 0.811, 'pos': 0.083, 'compound': -0.128}",-0.128
+4,"RT @MarkDice: @scrowder @TheYoungTurks @DanCrenshawTX Steven, it turns out all you needed to do to not get demonetized was praise Al Qaeda!…","{'neg': 0.0, 'neu': 0.844, 'pos': 0.156, 'compound': 0.5983}",0.5983

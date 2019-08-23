@@ -1,0 +1,6 @@
+,Tweets,Sentiment,Good_Bad
+0,"RT @SpeakerPelosi: Russia is continuing their sweeping &amp; unprecedented attack on U.S. elections, &amp; @realdonaldtrump wants to allow them bac…","{'neg': 0.135, 'neu': 0.783, 'pos': 0.083, 'compound': -0.296}",-0.296
+1,"RT @SpeakerPelosi: Russia is continuing their sweeping &amp; unprecedented attack on U.S. elections, &amp; @realdonaldtrump wants to allow them bac…","{'neg': 0.135, 'neu': 0.783, 'pos': 0.083, 'compound': -0.296}",-0.296
+2,"RT @SpeakerPelosi: Russia is continuing their sweeping &amp; unprecedented attack on U.S. elections, &amp; @realdonaldtrump wants to allow them bac…","{'neg': 0.135, 'neu': 0.783, 'pos': 0.083, 'compound': -0.296}",-0.296
+3,RT @TheCommonSpace: “I’m very worried that a coming General Election will see unprecedented bending of electoral law now that the Brexit re…,"{'neg': 0.111, 'neu': 0.889, 'pos': 0.0, 'compound': -0.3597}",-0.3597
+4,RT @capt_amarinder: On my way to Jalandhar and Sultanpur Lodhi to take stock of the situation and to visit the flood-affected areas. Though…,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0

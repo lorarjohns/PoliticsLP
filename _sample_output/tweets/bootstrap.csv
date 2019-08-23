@@ -1,0 +1,19 @@
+,Tweets,Sentiment,Good_Bad
+0,"RT @t1dxoxo: 💡7月中ばの時点
+☑️HTML上級まで(Progate)
+☑️jQuery制覇(Progate)
+◻️Wordpress 制覇(ドットインストール)
+☑️Bootstrap制覇(ドットインストール)
+☑️Githubポートフォリオ作成
+☑️PHP制覇(…","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0
+1,"RT @LizAltmiller: Day 5 &amp; 6 of #100DaysOfCode was more C#, and some web dev! Forgot to post about it yesterday. *facepalm* this social medi…","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0
+2,"Here's what BootstrapParadox was made of! 
+
+Look out for Bootstrap Paradox 2.0!!!
+
+@BlumeVentures @urConstellation https://t.co/Ht7Rnbm3Gm","{'neg': 0.155, 'neu': 0.845, 'pos': 0.0, 'compound': -0.3753}",-0.3753
+3,"bootstrapの学習をしてるんですが
+rowという難敵が現れた😓","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0
+4,"RT @SitesCourse: Udemy Coupons Free Discounts
+Explore #React 
+Master Laravel PHP with basic to advanced Projects -&gt; https://t.co/bZO9Pwua5C…","{'neg': 0.0, 'neu': 0.751, 'pos': 0.249, 'compound': 0.6486}",0.6486

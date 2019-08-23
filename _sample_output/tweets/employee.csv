@@ -1,0 +1,13 @@
+,Tweets,Sentiment,Good_Bad
+0,"RT @TrumpStudents: This. Is. Unacceptable.
+
+An employee of @TheYoungTurks openly mocked Dan Crenshaw for loosing his eye, while serving our…","{'neg': 0.227, 'neu': 0.773, 'pos': 0.0, 'compound': -0.6486}",-0.6486
+1,"RT @draw_gregory: Me, when a straight employee is flirting with a customer and I’m in line: Can you hurry up!!
+
+Me, when a queer employee i…","{'neg': 0.0, 'neu': 0.831, 'pos': 0.169, 'compound': 0.508}",0.508
+2,"RT @bennyjohnson: I’m furious.
+An employee of one of the largest news sites in the country @TheYoungTurks says that a “brave fucking” terro…","{'neg': 0.15, 'neu': 0.85, 'pos': 0.0, 'compound': -0.5719}",-0.5719
+3,"RT @bennyjohnson: I’m furious.
+An employee of one of the largest news sites in the country @TheYoungTurks says that a “brave fucking” terro…","{'neg': 0.15, 'neu': 0.85, 'pos': 0.0, 'compound': -0.5719}",-0.5719
+4,"RT @bennyjohnson: I’m furious.
+An employee of one of the largest news sites in the country @TheYoungTurks says that a “brave fucking” terro…","{'neg': 0.15, 'neu': 0.85, 'pos': 0.0, 'compound': -0.5719}",-0.5719

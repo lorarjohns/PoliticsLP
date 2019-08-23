@@ -1,0 +1,9 @@
+,Tweets,Sentiment,Good_Bad
+0,"RT @deepolice12: Deeply condole the untimely death of our young colleague Armed Police Head Constable of City Armed Reserve, Raj Shivappa Y…","{'neg': 0.157, 'neu': 0.843, 'pos': 0.0, 'compound': -0.5994}",-0.5994
+1,RT @lgoer_compchem: Spread the word: the School of Chemistry at @unimelb is looking for a female Lecturer or Senior Lecturer in Theo or Com…,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0
+2,RT @minnipetit: Yunseong: I couldn't have done it without Dongyun and Changuk. We're here because we're doing our best. We feel like a fami…,"{'neg': 0.0, 'neu': 0.749, 'pos': 0.251, 'compound': 0.7717}",0.7717
+3,"□ colleague 
+≒ co-worker
+名 同僚
+□ get here　ここに来る","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0
+4,RT @minnipetit: Yunseong: I couldn't have done it without Dongyun and Changuk. We're here because we're doing our best. We feel like a fami…,"{'neg': 0.0, 'neu': 0.749, 'pos': 0.251, 'compound': 0.7717}",0.7717

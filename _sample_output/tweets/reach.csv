@@ -1,0 +1,12 @@
+,Tweets,Sentiment,Good_Bad
+0,"RT @theintercept: Scientists warn that losing another fifth of Brazil’s Amazon will trigger the feedback loop known as dieback, in which th…","{'neg': 0.162, 'neu': 0.769, 'pos': 0.069, 'compound': -0.3182}",-0.3182
+1,"RT @btsvotingmetric: Let's start! GOAL: Can ARMYs reach 50 replies for @BTS_twt?
+
+📥 #MPN #BTS #ARMY #BoyWitLuv  
+
+https://t.co/tVIC33x4a2","{'neg': 0.0, 'neu': 0.92, 'pos': 0.08, 'compound': 0.1007}",0.1007
+2,"RT @martinfowler: Agile isn't dead: @TotherAlistair explains it's healthy and still has much of the world to reach.
+
+""Only one of two thing…","{'neg': 0.0, 'neu': 0.734, 'pos': 0.266, 'compound': 0.7385}",0.7385
+3,"RT @theintercept: Scientists warn that losing another fifth of Brazil’s Amazon will trigger the feedback loop known as dieback, in which th…","{'neg': 0.162, 'neu': 0.769, 'pos': 0.069, 'compound': -0.3182}",-0.3182
+4,Not me googling how to reach the deceased at 2 am,"{'neg': 0.0, 'neu': 0.891, 'pos': 0.109, 'compound': 0.0258}",0.0258

@@ -1,0 +1,8 @@
+,Tweets,Sentiment,Good_Bad
+0,@nihonnouen 職場では他人が忖度してくれるので…😅,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0
+1,"RT @AtifBjp: The man who maligned millions of Hindus around the world, called them terrorists, was holed up like a petty thief. Now arreste…","{'neg': 0.302, 'neu': 0.617, 'pos': 0.081, 'compound': -0.7783}",-0.7783
+2,RT @iamJokunle: Lmfao why you gotta be so petty 😂😂😫😫 https://t.co/qQbslfWEsp,"{'neg': 0.159, 'neu': 0.605, 'pos': 0.235, 'compound': 0.2809}",0.2809
+3,damn &amp; I thought girls were supposed to be petty ☠️,"{'neg': 0.36, 'neu': 0.64, 'pos': 0.0, 'compound': -0.5423}",-0.5423
+4,"RT @_Amethystz: Y'all let save our world. Stop those petty fanwars. Let start to care for our environment. 
+#SaveOurEarth
+#PrayforAmazonia…","{'neg': 0.152, 'neu': 0.606, 'pos': 0.242, 'compound': 0.5267}",0.5267

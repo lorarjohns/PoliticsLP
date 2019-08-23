@@ -1,0 +1,4 @@
+,Tweets,Sentiment,Good_Bad
+0,"@nsitharaman @cbic_india @IncomeTaxIndia @FinMinIndia Mam, no relief from government? Mkts not happy, investors not… https://t.co/fyZeIpLw5d","{'neg': 0.256, 'neu': 0.591, 'pos': 0.153, 'compound': -0.2728}",-0.2728
+1,RT @BetsyDeVosED: I appreciate President Trump’s strong leadership on this issue and his willingness to provide much-needed student loan re…,"{'neg': 0.0, 'neu': 0.664, 'pos': 0.336, 'compound': 0.7964}",0.7964
+2,"@ICHXNCSE After a half hour, the ravenette came out of the bathroom. She wore a black top, lilac hoodie, and violet… https://t.co/Yr6kUeOWiK","{'neg': 0.0, 'neu': 0.913, 'pos': 0.087, 'compound': 0.2023}",0.2023

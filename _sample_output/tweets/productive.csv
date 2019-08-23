@@ -1,0 +1,6 @@
+,Tweets,Sentiment,Good_Bad
+0,I updated 126 apps on my phone today. That’s what I call productive.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0
+1,One day you will hear that I have died. Don't believe it or weep for me. I am God's seed planted on this earth. My… https://t.co/BsO7Cclh5b,"{'neg': 0.249, 'neu': 0.751, 'pos': 0.0, 'compound': -0.8074}",-0.8074
+2,#Yankees starters aren’t going to dominate anyone in a short series &amp; they’re going to need to hit &amp; score runs. An… https://t.co/dIyhg8tzHr,"{'neg': 0.067, 'neu': 0.933, 'pos': 0.0, 'compound': -0.128}",-0.128
+3,RT @GM_MarkSalter: Extremely productive meeting with @DraegerNews discussing technical advancements in BA wearer safety and how @CornwallFR…,"{'neg': 0.0, 'neu': 0.851, 'pos': 0.149, 'compound': 0.4215}",0.4215
+4,"RT @freeCodeCamp: It's easy to get distracted these days - there's so much to learn, and so many notifications coming at us all the time.…","{'neg': 0.088, 'neu': 0.806, 'pos': 0.106, 'compound': 0.128}",0.128

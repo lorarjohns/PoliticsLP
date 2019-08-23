@@ -1,0 +1,5 @@
+,Tweets,Sentiment,Good_Bad
+0,@JamesCleverly Politicians legislated for an advisory referendum. They are not obliged to do anything about the result.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0
+1,Congratulations to City of Tukwila for receiving a 2019 Governor’s Smart Communities - Smart Partnership award for… https://t.co/kjB0ylhZsf,"{'neg': 0.0, 'neu': 0.484, 'pos': 0.516, 'compound': 0.9153}",0.9153
+2,"RT @NKMalazai: “Although an Advisory Opinion will not be binding, it will support Pakistan’s position that Kashmir is an international issu…","{'neg': 0.0, 'neu': 0.881, 'pos': 0.119, 'compound': 0.4019}",0.4019
+3,RT @Katja_Iversen: Please RT! Calling on all world leaders! Take stock of your laws &amp; policies. Apply a gender lens. Put girls and women at…,"{'neg': 0.0, 'neu': 0.889, 'pos': 0.111, 'compound': 0.4374}",0.4374

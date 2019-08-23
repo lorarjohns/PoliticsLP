@@ -1,0 +1,8 @@
+,Tweets,Sentiment,Good_Bad
+0,"RT @Cinemacked: Although this episode presented a lot of trauma, it did so in a way that included space to acknowledge pain and truths but…","{'neg': 0.211, 'neu': 0.692, 'pos': 0.097, 'compound': -0.5106}",-0.5106
+1,"On what do they base this hopefulness to avoid deficit spending? Past performance? Let’s see:
+Trump Air
+Trump Taj M… https://t.co/r8H3RgLtah","{'neg': 0.2, 'neu': 0.685, 'pos': 0.114, 'compound': -0.3094}",-0.3094
+2,@BarackObama This is goodness.  This is humanity.  This is beautiful.   This is hopefulness.  This is caring.   Thi… https://t.co/HPkp1TFPRz,"{'neg': 0.0, 'neu': 0.524, 'pos': 0.476, 'compound': 0.9136}",0.9136
+3,"RT @addisstandard: In #Ethiopia’s Highlands, a Search for Hope &amp; Horror @MaazaMengiste on researching battles scenes in the highlands of #E…","{'neg': 0.24, 'neu': 0.649, 'pos': 0.111, 'compound': -0.5267}",-0.5267
+4,"In #Ethiopia’s Highlands, a Search for Hope &amp; Horror @MaazaMengiste on researching battles scenes in the highlands… https://t.co/uYRJ8M77hM","{'neg': 0.272, 'neu': 0.603, 'pos': 0.125, 'compound': -0.5267}",-0.5267

@@ -1,0 +1,8 @@
+,Tweets,Sentiment,Good_Bad
+0,So many feels being back at @SeatGeekStadium for the @chiredstarsPR game! Time to start training again...,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0
+1,"Also, I got tonight's writing in again at the very last minute, but I did it: 526 words and my MC still hasn't mana… https://t.co/kPNdLhXKN2","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0
+2,RT @esafety_Kent: 10 years on: why we still need better sex education for the digital world https://t.co/9E0v0kgmnC via @Livingstone_S #esa…,"{'neg': 0.0, 'neu': 0.868, 'pos': 0.132, 'compound': 0.4404}",0.4404
+3,Dog training for children - not a good idea! We need nurturing to develop positive self-esteem and confidence in na… https://t.co/0gE4yx43iF,"{'neg': 0.087, 'neu': 0.544, 'pos': 0.369, 'compound': 0.831}",0.831
+4,"RT @PowrSoccer: Lionel Messi is back in training and still dancing around defenders as usual 🤩
+(🎥📸: @FCBarcelona )
+https://t.co/hrDMQv1DIS","{'neg': 0.0, 'neu': 0.929, 'pos': 0.071, 'compound': 0.0772}",0.0772

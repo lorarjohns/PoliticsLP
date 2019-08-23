@@ -1,0 +1,10 @@
+,Tweets,Sentiment,Good_Bad
+0,"RT @namustd: Brazil’s Amazon rainforest is on fire #PrayforAmazonia 
+
+#ARMYHelpThePlanet🌱 #PrayforAmazonas  https://t.co/T0qzDW0wmc","{'neg': 0.17, 'neu': 0.709, 'pos': 0.121, 'compound': -0.1779}",-0.1779
+1,https://t.co/JMt5xoJzCm,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0
+2,RT @Vegans4Labour: “Never have so few done so much damage to so many” Boris Johnson’s legacy https://t.co/uf1KA7e62V,"{'neg': 0.179, 'neu': 0.821, 'pos': 0.0, 'compound': -0.539}",-0.539
+3,High paying jobs for independent freelance workers #SmartNews  https://t.co/9LVqPrpWLs,"{'neg': 0.0, 'neu': 0.784, 'pos': 0.216, 'compound': 0.296}",0.296
+4,"RT @dekusmvltiverse: disney: we want 50/50 bc reasons
+
+sony: we’re like one of 3 studios that’s independent from u and needs that income to…","{'neg': 0.0, 'neu': 0.84, 'pos': 0.16, 'compound': 0.4215}",0.4215

@@ -1,0 +1,6 @@
+,Tweets,Sentiment,Good_Bad
+0,RT @Ajanaenaexo: How I clean up when I do it without someone telling me to do it https://t.co/3AzTChZpuF,"{'neg': 0.0, 'neu': 0.847, 'pos': 0.153, 'compound': 0.4019}",0.4019
+1,"@_imnameless Why would someone tell you that?! When both my kids first started walking, everyone kept their “real”… https://t.co/Gu1mXrZ8BI","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0
+2,RT @eugenegu: We learn in med school that if someone comes to the emergency room calling themselves the King of Israel and the second comin…,"{'neg': 0.098, 'neu': 0.902, 'pos': 0.0, 'compound': -0.3818}",-0.3818
+3,"RT @hotgirllniya: It’s hard to find a REAL friend nowadays. Your own bestfriend will pray on your downfall. And let me tell you, how long y…","{'neg': 0.048, 'neu': 0.761, 'pos': 0.19, 'compound': 0.6249}",0.6249
+4,RT @Ajanaenaexo: How I clean up when I do it without someone telling me to do it https://t.co/3AzTChZpuF,"{'neg': 0.0, 'neu': 0.847, 'pos': 0.153, 'compound': 0.4019}",0.4019

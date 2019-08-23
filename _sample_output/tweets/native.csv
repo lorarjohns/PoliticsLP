@@ -1,0 +1,6 @@
+,Tweets,Sentiment,Good_Bad
+0,native girl is tweet,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0
+1,"@GetFuktHoosier If an actual Native American has a criticism of Warren, I think we should listen and it's probably… https://t.co/cICO5CTosK","{'neg': 0.146, 'neu': 0.854, 'pos': 0.0, 'compound': -0.4404}",-0.4404
+2,"RT @chaebackatit: Derrick Daniels, a Chicago native, took off his shirt and compressed a young student's gunshot wound. Likely saved her li…","{'neg': 0.0, 'neu': 0.872, 'pos': 0.128, 'compound': 0.4215}",0.4215
+3,"RT @PepePierce: ""Warren’s false claims will affect all tribal nations today, tomorrow, and the next day. These are vital issues. And they a…","{'neg': 0.0, 'neu': 0.909, 'pos': 0.091, 'compound': 0.296}",0.296
+4,"RT @41Strange: Lithops, commonly known as “living stones,” are plants native to the dry climates of Southern Africa. They look just like a…","{'neg': 0.0, 'neu': 0.898, 'pos': 0.102, 'compound': 0.3612}",0.3612

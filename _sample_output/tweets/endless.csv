@@ -1,0 +1,8 @@
+,Tweets,Sentiment,Good_Bad
+0,私が莫大な時間をかけてしか君に要求できないことを、君は赤の他人に2秒でする教えて欲しい、何が違うのか。,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0
+1,"RT @NatGeoTravel: Colonial architecture, iconic artwork and a rich cultural heritage offer visitors an endless array of activities to satis…","{'neg': 0.0, 'neu': 0.833, 'pos': 0.167, 'compound': 0.5574}",0.5574
+2,"RT @clmazin: The first time ever I saw @TomSchnauz's face 
+I thought the sun rose in his eyes 
+And the moon and the stars were the gifts he…","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0
+3,RT @piersmorgan: It’s not ‘racist’ or ‘bullying’ to criticise Meghan &amp; Harry for preaching about the environment then jumping on endless pr…,"{'neg': 0.121, 'neu': 0.879, 'pos': 0.0, 'compound': -0.4404}",-0.4404
+4,RT @kingofalmyra: i just found out claude is 5’8 https://t.co/FGfLMBlS3G,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0

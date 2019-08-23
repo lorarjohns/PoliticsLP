@@ -1,0 +1,8 @@
+,Tweets,Sentiment,Good_Bad
+0,"RT @Underground_RT: ""There is a WORLD WAR...there is already a war on China🇨🇳. There has been a war of attrition against Russia🇷🇺...breakin…","{'neg': 0.315, 'neu': 0.685, 'pos': 0.0, 'compound': -0.8316}",-0.8316
+1,"RT @quenblackwell: “people who eat at long john silvers have nothing to contribute to society” 
+-@DemetriusHarmon 😂😂😂😂😂","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0
+2,RT @TonsTweetings: ลองจินตนาการตัวเอง เดินเล่นเดอะมอลล์โคราช แล้วเจอ John Legend กับเมียมานั่งซื้อลาบห่อกลับบ้าน https://t.co/cTirdCWpl7,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0
+3,"@thehill Is Beto supporting Julián’s run for senate against John Cornyn?
+. @BetoORourke @JulianCastro @JohnCornyn https://t.co/yFytF0Eb1h","{'neg': 0.0, 'neu': 0.828, 'pos': 0.172, 'compound': 0.4404}",0.4404
+4,"RT @marieboli: If you can't take action I'll take your prayers, but if you can stand the fuck up and let's do something. Impeach Bolsonaro.…","{'neg': 0.165, 'neu': 0.835, 'pos': 0.0, 'compound': -0.6956}",-0.6956

@@ -1,0 +1,10 @@
+,Tweets,Sentiment,Good_Bad
+0,"RT @TrooperBob_SC: Things that are FREE:
+- Calling your parents to check on them 
+- Making amends
+- Opening the door for someone
+- Holding…","{'neg': 0.0, 'neu': 0.832, 'pos': 0.168, 'compound': 0.6166}",0.6166
+1,Laundry done...,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0
+2,"RT @holly_bourneYA: OK, so we need to sleep for eight hours a day. Work at least another eight. Add in commute. Walk 10,000 steps. Meditate…","{'neg': 0.0, 'neu': 0.887, 'pos': 0.113, 'compound': 0.4466}",0.4466
+3,Why is laundry never ending in my house? There is only TWO of us! How do we have this much laundry!,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0
+4,"I need to pack  and do laundry before I go to California tomorrow, but all I really want to do is sleep.","{'neg': 0.0, 'neu': 0.905, 'pos': 0.095, 'compound': 0.2238}",0.2238

@@ -1,0 +1,6 @@
+,Tweets,Sentiment,Good_Bad
+0,RT @TheDohertyInst: Congratulations to @simpak who was last night awarded the prestigious 'In Memory of Neil Lawrence Prize’ at the 2019 @C…,"{'neg': 0.0, 'neu': 0.752, 'pos': 0.248, 'compound': 0.765}",0.765
+1,"RT @inquirerdotnet: BREAKING: BuCor director general Nicanor Faeldon clarifies, imprisoned ex-Calauan Mayor Antonio Sanchez may not be qual…","{'neg': 0.144, 'neu': 0.766, 'pos': 0.091, 'compound': -0.2732}",-0.2732
+2,"RT @SimiKay_Mt: We broke up and year later I'm still paying for his cell phone contract😂. Nigga uthi kuyabeda he can't pay, oh that's not a…","{'neg': 0.1, 'neu': 0.854, 'pos': 0.046, 'compound': -0.362}",-0.362
+3,"RT @inquirerdotnet: BREAKING: BuCor director general Nicanor Faeldon clarifies, imprisoned ex-Calauan Mayor Antonio Sanchez may not be qual…","{'neg': 0.144, 'neu': 0.766, 'pos': 0.091, 'compound': -0.2732}",-0.2732
+4,"@zigafide @RealBWC @Nicholas_DeOrio Your choice really, no one is forcing you to like his content. It boils down to… https://t.co/XG9LbC689v","{'neg': 0.108, 'neu': 0.783, 'pos': 0.109, 'compound': 0.0018}",0.0018

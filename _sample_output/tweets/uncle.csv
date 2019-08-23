@@ -1,0 +1,13 @@
+,Tweets,Sentiment,Good_Bad
+0,RT @MrWilliamHaynes: When you ask your gay uncle to do your hair and he accidentally changes your life forever https://t.co/3mTZm3UFuk,"{'neg': 0.112, 'neu': 0.888, 'pos': 0.0, 'compound': -0.34}",-0.34
+1,"RT @JacksonWGlobal: [WEIBO] 190822 Aimee千语
+
+Cherish the moments spent together with uncle @JacksonWang852 
+All the best for today's concert…","{'neg': 0.0, 'neu': 0.714, 'pos': 0.286, 'compound': 0.7783}",0.7783
+2,"@needterror Salem that’s impossible :/
+
+But!! I offer you the role of: cool uncle Salem!","{'neg': 0.186, 'neu': 0.683, 'pos': 0.131, 'compound': -0.2444}",-0.2444
+3,"RT @priyankagandhi: The world misses men like #NelsonMandela more than ever today. His life was a testament to truth, love and freedom. 
+
+T…","{'neg': 0.059, 'neu': 0.53, 'pos': 0.411, 'compound': 0.9062}",0.9062
+4,RT @_not_martin_: Sony to Uncle Ben after rebooting Spiderman for the 4th time: https://t.co/3ItQ10Ix0J,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0

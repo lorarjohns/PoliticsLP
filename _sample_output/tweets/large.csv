@@ -1,0 +1,14 @@
+,Tweets,Sentiment,Good_Bad
+0,RT @AdityaRajKaul: Sad to hear that some foreign media outlets visiting Kashmir have been specifically given the task of visually highlight…,"{'neg': 0.134, 'neu': 0.866, 'pos': 0.0, 'compound': -0.4767}",-0.4767
+1,"RT @2A4N7: PRESENT ; GIFT 백현 #BAEKHYUN #백현 @B_hundred_Hyun #엑소 #EXO   @weareoneEXO
+
+https://t.co/Q7EvQxO5gE
+https://t.co/Hsm2Q1W9Dl
+https:/…","{'neg': 0.0, 'neu': 0.782, 'pos': 0.218, 'compound': 0.5622}",0.5622
+2,RT @nytimes: The fires burning in the Amazon rain forest are so large and widespread that smoke has wafted thousands of miles away to the A…,"{'neg': 0.0, 'neu': 0.936, 'pos': 0.064, 'compound': 0.1779}",0.1779
+3,"RT @NorthernCarter: The 3 year long stalling of Brexit is a smokescreen for the Conservatives.
+
+As we become more and more divided over the…","{'neg': 0.079, 'neu': 0.921, 'pos': 0.0, 'compound': -0.2023}",-0.2023
+4,"RT @w_terrence: I’m being accused of not using my platform to talk about issues in the black community. 
+
+As a black man in America with a…","{'neg': 0.084, 'neu': 0.916, 'pos': 0.0, 'compound': -0.296}",-0.296

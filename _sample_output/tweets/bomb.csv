@@ -1,0 +1,14 @@
+,Tweets,Sentiment,Good_Bad
+0,"J.D. Davis helping 
+the #MetsWin by getting the clutch walk-off winner off of #RallyTogether closer Brad Hand 
+is h… https://t.co/SR0TxhWZ4p","{'neg': 0.0, 'neu': 0.649, 'pos': 0.351, 'compound': 0.8481}",0.8481
+1,"RT @AskAnshul: India-Bangladesh border
+
+Today:
+
+1. Assam: Cow Smugglers killed BSF Jawan Sadhu
+
+2. Bengal: Cow Smugglers attacked BSF Jawan…","{'neg': 0.435, 'neu': 0.565, 'pos': 0.0, 'compound': -0.9062}",-0.9062
+2,RT @BellKNW: HOLIKA HOLIKA x PEKO Water Drop Tint Bomb ลิปทิ้นท์เปะโกะ สุดน่ารัก ทิ้นท์ที่ใครๆ ก็ชอบ จัดว่าเป็นลิปทิ้นท์ในตำนานเลยก็ว่าได้!…,"{'neg': 0.318, 'neu': 0.682, 'pos': 0.0, 'compound': -0.68}",-0.68
+3,RT @for__infinity: Yall the print lookin bomb af im actually happy that I bought the A3 paper 🧜‍♀️ https://t.co/7WOg041xIP,"{'neg': 0.14, 'neu': 0.699, 'pos': 0.162, 'compound': 0.128}",0.128
+4,@Mo_Mosia YES!!! what are ticket prices 😄,"{'neg': 0.0, 'neu': 0.537, 'pos': 0.463, 'compound': 0.6496}",0.6496

@@ -1,0 +1,10 @@
+,Tweets,Sentiment,Good_Bad
+0,"RT @YAPeers: Hello aspiring peer mentors! See you at the Founder's Lobby today until tomorrow, August 23, 2019. 💚 https://t.co/O10z46nvwJ","{'neg': 0.0, 'neu': 0.928, 'pos': 0.072, 'compound': 0.1007}",0.1007
+1,"RT @indoflyer: @__octa Lion Air juga buka wacana membatalkan pesanan 737MAX.
+
+https://t.co/Mqza2pcUGm
+
+Ntar kita naik COMAC C919. Tapi ntar…","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0
+2,RT @MarkDice: YouTube's CEO Susan Wojcicki has met personally with Young Turks founder Cenk Uygur (who employs the Al Qaeda sympathizer co-…,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0
+3,"RT @CuomoPrimeTime: President Trump ""won't even release his taxes, this President, and you're saying that Obama had some litmus test of pro…","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0
+4,Binance CEO Criticizes Ethereum Co-Founder Over Blockchain Scalability https://t.co/iXKsBsXHJf,"{'neg': 0.231, 'neu': 0.769, 'pos': 0.0, 'compound': -0.34}",-0.34

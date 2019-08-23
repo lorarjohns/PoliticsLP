@@ -1,0 +1,8 @@
+,Tweets,Sentiment,Good_Bad
+0,"RT @TheFifteen20: Facts you should know:
+
+1. I’m not a conservative talking-point prophet. I’m a scholar, researcher, and teacher of truth.…","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0
+1,@DanDan50530380 @Danabolsomoro @Bolsominia @Tiago2Melo @GauchoMateador @monicafraga @Ferrer6Lu @oiregoRRR… https://t.co/39nfQYydZE,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0
+2,if you want to be more informed on just how important the Amazon is for the world and the indigenous people who inh… https://t.co/8WebO8AHRF,"{'neg': 0.0, 'neu': 0.814, 'pos': 0.186, 'compound': 0.4215}",0.4215
+3,"RT @BetoORourke: At a gun show, a seller told me we need better background checks. An owner of an AK-47 told me he’d do anything to keep hi…","{'neg': 0.082, 'neu': 0.819, 'pos': 0.099, 'compound': 0.128}",0.128
+4,"""He's a patriotic human being acting in the interest of his country, in his mind."" A patriot acting in the interest… https://t.co/vvVCmK1dR6","{'neg': 0.0, 'neu': 0.864, 'pos': 0.136, 'compound': 0.4588}",0.4588

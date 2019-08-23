@@ -1,0 +1,11 @@
+,Tweets,Sentiment,Good_Bad
+0,"RT @ChanbaeksooE: @weareoneEXO Excited to see actor kim junmyeon♥️♥️
+#EXO @weareoneEXO @B_hundred_Hyun @layzhang","{'neg': 0.0, 'neu': 0.833, 'pos': 0.167, 'compound': 0.34}",0.34
+1,"@AmiVenkateshS @Actor_Vivek ha ha correct bro.. #Indian2 la chance kedacha vudana, kamal sir ku, sombhu adikiraan.. Chameleon a$$","{'neg': 0.0, 'neu': 0.688, 'pos': 0.312, 'compound': 0.7003}",0.7003
+2,"RT @OriginalYoni: If there is one thing you will watch today, let it be this short clip.
+
+For context: Forbes released their annual list of…","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0
+3,@hiphoptamizha @VelsFilmIntl @actor_jayamravi @MsKajalAggarwal @pradeeponelife @SamyukthaHegde @SonyMusicSouth @SakthiFilmFctry 💪💪😍😍,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0
+4,"RT @RedChilliesEnt: Legendary actor vs. legendary spy. Who will win this battle of wits?
+
+@iamsrk @emraanhashmi @NetflixIndia #BardOfBlood…","{'neg': 0.132, 'neu': 0.702, 'pos': 0.167, 'compound': 0.2023}",0.2023

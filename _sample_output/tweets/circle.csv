@@ -1,0 +1,12 @@
+,Tweets,Sentiment,Good_Bad
+0,"I lied I'm tired I turned on the game, turned La Hee in a circle and I'm fragged bros","{'neg': 0.282, 'neu': 0.718, 'pos': 0.0, 'compound': -0.6705}",-0.6705
+1,"@DanikaXIX one to tuck away for Dune Club 5: ""A wagon fort is a mobile fortification made of wagons arranged into a… https://t.co/z1qF6nKiMO","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0
+2,Mob becomes a good person in a world of wildly powerful psychics because he had the support of friends who genuinel… https://t.co/75AgHyW5YX,"{'neg': 0.0, 'neu': 0.582, 'pos': 0.418, 'compound': 0.8885}",0.8885
+3,RT @BoomBoomBetty: Everyone: I want to be cremated and my ashes sprinkled into the ocean under the moon while baby turtles hatch and race t…,"{'neg': 0.0, 'neu': 0.947, 'pos': 0.053, 'compound': 0.0772}",0.0772
+4,"RT @X1gendary: PRAYER CIRCLE 
+            
+           🕯         🕯        🕯
+                  
+    🕯      PLEASE AVOID     🕯
+   
+🕯…","{'neg': 0.267, 'neu': 0.456, 'pos': 0.277, 'compound': 0.0258}",0.0258

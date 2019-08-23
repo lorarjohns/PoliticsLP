@@ -1,0 +1,7 @@
+,Tweets,Sentiment,Good_Bad
+0,slide away is being SLEPT ON SIS ):&lt;&lt;&lt;&lt;,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0
+1,"RT @Eugene_Robinson: Sorry, but tonight I just have to tweet this column again. ""The truth is that we don’t have an actual presidency right…","{'neg': 0.046, 'neu': 0.837, 'pos': 0.118, 'compound': 0.4215}",0.4215
+2,"RT @pradeep_m_2: If you can see the watermark in slide you will get to know how flexible Magento is!! 
+@MeetMagentoSG
+@icubeid
+#MM19SG http…","{'neg': 0.0, 'neu': 0.899, 'pos': 0.101, 'compound': 0.3578}",0.3578

@@ -1,0 +1,6 @@
+,Tweets,Sentiment,Good_Bad
+0,"Whoever is going to lead an insurgency in Zim will become popular.If it happens, MDC might lose relevance. Its time… https://t.co/laG2kWl9lH","{'neg': 0.119, 'neu': 0.881, 'pos': 0.0, 'compound': -0.4019}",-0.4019
+1,"RT @MenshevikM: So uh if the US was slightly less white we would call this an insurgency, right. Like I don’t think the Naxalite movement o…","{'neg': 0.0, 'neu': 0.906, 'pos': 0.094, 'compound': 0.3612}",0.3612
+2,"The legacy of that idiot Paul Bremer dismissing the Iraqi Army, Republican Guard &amp; Ba’ath Party..... after sacking… https://t.co/V4jau9pmtD","{'neg': 0.155, 'neu': 0.845, 'pos': 0.0, 'compound': -0.5106}",-0.5106
+3,@yaqoobmaso @A89935615 We kne what happened but what you did to Hindus? Tell me the percentage of hindus after part… https://t.co/aE29mPwaN6,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0
+4,@news_rookie @IMAIndiaOrg Guess the IMA would do well to bring out a paper on mental health of UK residents post Br… https://t.co/oyvKboLVUo,"{'neg': 0.0, 'neu': 0.905, 'pos': 0.095, 'compound': 0.2732}",0.2732
